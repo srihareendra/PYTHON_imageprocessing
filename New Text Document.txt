@@ -1,0 +1,9 @@
+The Requirements
+
+
+OCR_TESSERACT_OPENCV.py  IS THE MAIN RUNNING CODE python it uses PYTESSERACT PYOPENCV PILLOW
+
+
+The image path need to be specified in the code
+Tessdata should be in the same path as the code 
+
